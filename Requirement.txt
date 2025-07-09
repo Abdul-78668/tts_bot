@@ -1,4 +1,0 @@
-flask
-gTTS
-langdetect
-pyTelegramBotAPI
